@@ -1,10 +1,6 @@
 # computer-vision-
-# Computer Vision Assessment
-
 This project demonstrates a basic application of computer vision techniques using Python. The core objective is to perform image processing and object detection using OpenCV and other essential libraries.
-
 ## Features
-
 - Image loading and preprocessing
 - Object contour detection
 - Use of OpenCV for drawing bounding boxes
